@@ -39,3 +39,5 @@ EXPOSE 8080
  
 CMD ["catalina.sh", "run"]
 ```
+
+![alt text](pipeline.jpeg)
